@@ -26,8 +26,4 @@ Thumbs.db
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# Large data files (keep FASTA for reproducibility, exclude generated outputs)
-Visualisation/*.png
-Visualisation/*.jpg
-*.tmp
-*.cache
+# Large data files (keep FASTA for reproducibility)
