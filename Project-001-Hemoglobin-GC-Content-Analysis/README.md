@@ -70,11 +70,10 @@ ATGCATGCATGC...
 GCTAGCTAGCTA...
 ```
 
-## Features
+## Author
 
-- Automated GC content calculation from DNA sequences
-- Species identification from FASTA headers
-- Publication-quality visualization with a clean design
-- High-resolution PNG output suitable for presentations
+**Amarta Chowdhury**  
+*Biochemistry and Molecular Biology*  
+Shahjalal University of Science and Technology
 
 
