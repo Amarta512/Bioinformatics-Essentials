@@ -70,34 +70,11 @@ ATGCATGCATGC...
 GCTAGCTAGCTA...
 ```
 
-## Output
-
-- **Visualization File**: `Visualisation/gc_content_visualization.png`
-  - Format: PNG image at 300 DPI
-  - Style: Publication-ready with:
-    - Line plot connecting points (grey, semi-transparent)
-    - Scatter plot with viridis color palette
-    - Bold axis labels and title
-    - Rotated species names for readability
-
 ## Features
 
 - Automated GC content calculation from DNA sequences
 - Species identification from FASTA headers
-- Professional publication-quality visualization
-- High-resolution output suitable for papers and presentations
-- Clean plot design with minimal distracting elements
+- Publication-quality visualization with a clean design
+- High-resolution PNG output suitable for presentations
 
-## Author
 
-**Amarta Chowdhury**  
-*Biochemistry and Molecular Biology*  
-Shahjalal University of Science and Technology
-
----
-
-## Author Notes
-
-- This analysis is useful for understanding compositional biases in gene sequences across evolutionary distant species
-- GC content is an important parameter in genomics as it can affect protein structure and evolutionary dynamics
-- The HBB gene is highly conserved across mammals, making it ideal for comparative genomic studies
